@@ -27,5 +27,24 @@ Apresenta um design moderno, com efeitos de **transição 3D e blur** entre os f
 
 ```bash
 ├── index.html     # Estrutura principal
-├── main.css       # Estilos e animações
-├── main.js        # Lógica e interatividade
+├── style.css       # Estilos e animações
+├── script.js        # Lógica e interatividade
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1️⃣ **Clone o repositório**
+
+```bash
+git clone https://github.com/Ninja1375/Tela_login_animada.git
+```
+
+2️⃣ Acesse a pasta
+```bash
+cd Tela_login_animada
+```
+
+3️⃣ Abra o arquivo `index.html` no navegador
+
